@@ -38,7 +38,7 @@
 </label>
 </p>
 
-<br/>
+<br>
 	
 <p>
 <label>Pickup Place
@@ -50,6 +50,8 @@
 </select>
 </label> 
 </p>
+
+<br>
 
 <p>
 <label>Dropoff Place
